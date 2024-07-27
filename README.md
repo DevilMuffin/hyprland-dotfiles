@@ -4,20 +4,20 @@
 ### If you try install these you do so at your own risk ;)
 ### (They are very unfinished)
 <br>
----
+<hr style="border: 1px solid #555; margin: 20px 0;">
 <br>
 
-<programs>
+<details>
 <summary>Programs included</summary>
 <br>
 Work in progress, will add later
-</programs>
+</details>
 
 <br>
 
-<install>
+<details>
 <summary>How to install</summary>
 <br>
 Will add guide later trust
-</install>
+</details>
 
