@@ -4,7 +4,7 @@
 ### If you try install these you do so at your own risk ;)
 ### (They are very unfinished)
 <br>
-<hr style="border: 1px solid #555; margin: 20px 0;">
+<hr style="border: 3px solid #555; margin: 20px 0;">
 <br>
 
 <details>
