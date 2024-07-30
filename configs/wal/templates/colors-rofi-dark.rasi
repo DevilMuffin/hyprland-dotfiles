@@ -1,0 +1,11 @@
+* {{
+    activeBackground: {color2};
+    urgentBackground: {color1};
+    
+    selectedActiveBackground: {color1};
+    selectedNormalBackground: {color2};
+    selectedUrgentBackground: {color3};
+
+    background: {background};
+    foreground: {foreground}; 
+}}
